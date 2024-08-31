@@ -1,0 +1,8 @@
+START
+INPUT hours_parked
+INPUT parking fee
+IF hours_parked >= THEN
+    COST=5+ (hours parked-1)*3
+ PRINT your fare is= cost
+ END
+ 
